@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="http://i.imgur.com/2EReWN2.png">
+    <img src="https://github.com/AlexanderOnischuk/houdini-library/raw/master/icons/18112.png">
 </p>
 <h1 align="center">Niklas' Houdini Library</h1>
 
